@@ -1,0 +1,191 @@
+body {
+    background-image: url(https://havenlifestyles.s3.us-east-2.amazonaws.com/Oregon+Mountain+Article.jpg);
+    background-size: cover;
+    background-position: center;
+}
+header {
+    background-image: url(https://media.istockphoto.com/photos/helix-pomatia-burgundy-snail-picture-id505633231?k=20&m=505633231&s=612x612&w=0&h=plEDG9RzMURajxqYoblpeXFb6hO4rTTjeen84M3-Dho=);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 200px;
+    padding: 40px;
+    font-style: italic;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+    text-decoration-color: orange;
+}
+header nav ul li {
+    margin: 0 30px;
+    font-weight: lighter;
+    font-size: 21px;
+    display: inline;
+    color: orange;
+}
+header h1, header nav ul li {
+    position: relative;
+    top: 50px;
+}
+.intro {
+    text-align: center;
+    font: bold;
+    font-size: x-large;
+    margin-top: 60px;
+    font-weight: bolder;
+}
+.intro p {
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color:orange;
+    position: auto;
+}
+.picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.farm h2, .intro h2  {
+    text-align: center;
+    font: bold;
+    color: white;
+    text-decoration: underline;
+    text-decoration-color: orange;
+}
+.farm {
+    color: white;
+    font-size: x-large;
+    text-decoration: underline;
+    text-decoration-color: orange;
+    margin-top: 60px;
+    text-align: center;
+    font-weight: bolder;
+}
+.farm h2, .farm p {
+    position: relative;
+        top: 50px;
+}
+.snail {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+.eat {
+    font-size: x-large;
+    color: orange;
+    text-decoration: underline;
+    text-decoration-color: white;
+    margin-top: 60px;
+    text-align: center;
+    font-weight: bolder;
+}
+.eat img {
+    text-align: center;
+    position: auto;
+}
+.eat h2 {
+    text-align: center;
+}
+.health img {
+        position: relative;
+        bottom: auto;
+}
+.facts {
+    font-size: x-large;
+    color: orange;
+    text-decoration: underline;
+    text-decoration-color: white;
+    margin-top: 60px;
+    position: auto;
+    font-weight: bolder;
+}
+.facts h2 {
+    color: white;
+    text-decoration: underline;
+    text-decoration-color: orange;
+    position: auto;
+}
+.facts img {
+    align-items: center;
+    background-image: url(https://media.istockphoto.com/photos/helix-pomatia-burgundy-snail-picture-id505633231?k=20&m=505633231&s=612x612&w=0&h=plEDG9RzMURajxqYoblpeXFb6hO4rTTjeen84M3-Dho=);
+    position: auto;
+}
+.recipes {
+color: orange;
+text-align: center;
+background-image: url(https://previews.123rf.com/images/natalyka/natalyka1602/natalyka160200026/53617366-notebook-do-gotowania-receptur-i-przypraw-na-bia%C5%82ym-tle.jpg);
+background-size: cover;
+background-position: center;
+font-size: xx-large;
+text-decoration: underline;
+text-decoration-color: orange;
+margin-top: 60px;
+position: auto;
+}
+.recipes h2 {
+    color: orange;
+text-decoration: underline;
+text-decoration-color: orange;
+}
+footer {
+    background-image: url(https://media.istockphoto.com/photos/garden-snail-crawling-picture-id157617604?b=1&k=20&m=157617604&s=170667a&w=0&h=KSVd51ON_KWVStf1_WxE90HIoHWC5plwe9R01ZBJwyA=);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding: 80px 40px;
+    color: white;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: orange;
+}
+.order {
+    background-color: orange;
+    text-align: center;
+    padding: 40px;
+}
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'lobster';
+}
+a:visited {
+    color: white;
+    text-decoration: none;
+    text-decoration-color: orange;
+}
+.garlic:visited, .peppered:visited, .a-la:visited, .risotto:visited, .paella:visited {
+    color: orange;
+    text-decoration: none;
+    text-decoration-color: orange;
+}
+.form {
+    color: white;
+    text-decoration: underline;
+    text-decoration-color: orange;
+    border: 5px solid white;
+}
+.order {
+    border: 10px solid white;
+}
+.order h2 {
+    color: white;
+    text-decoration: underline;
+    text-decoration-color: white;
+}
+footer article .email, footer article .call, footer article .facebook {
+    float: none;
+    margin: 0 30px;
+    color: white;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: orange;
+    display: inline-block;
+    height: 100px;
+    width: 300px;
+    position:relative;
+    top: 50px;
+}
+
